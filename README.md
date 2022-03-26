@@ -5,3 +5,7 @@
 ---
 
 [Пример тестового задания](https://docs.google.com/spreadsheets/d/1x4uiiFJbW5wst0lhsenMA4e7iJSx0ILObEOlMfrz-iw/edit?usp=sharing)
+
+---
+
+[Пример тест плана](https://docs.google.com/document/d/1ss6xWK9uWN-gtm9og1vjV_HsaxMTcqYgWMjtwZ1pke0/edit?usp=sharing)
