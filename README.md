@@ -1,4 +1,7 @@
 # Kolesov_qa
+[IT сертификаты](https://drive.google.com/drive/folders/18ijilUD-l4nUOzmrAWW3dFF_QnslsL0E)
+
+---
 
 [Пример тест кейсов](https://docs.google.com/spreadsheets/d/1MjWaquu0_QgWqrhzW7wZsACEiCaU1USSUChl4p7t4qg/edit?usp=sharing)
 
